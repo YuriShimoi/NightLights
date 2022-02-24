@@ -1,0 +1,10 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #111;
+}
+
+#screen {
+    border: 1px solid white;
+    background-color: #222;
+}
